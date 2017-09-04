@@ -33,8 +33,8 @@ Then just `mocha`.
 ## License
 MIT © Sadoht Gomez Fernandez
 
-[npm-url]: https://npmjs.org/package/numbeo-node-api
-[npm-downloads-img]: https://img.shields.io/npm/dm/numbeo-node-api.svg
-[npm-version-img]: https://badge.fury.io/js/numbeo-node-api.svg
-[npm-license-img]: https://img.shields.io/npm/l/numbeo-node-api.svg
+[npm-url]: https://npmjs.org/package/numbeo-api
+[npm-downloads-img]: https://img.shields.io/npm/dm/numbeo-api.svg
+[npm-version-img]: https://badge.fury.io/js/numbeo-api.svg
+[npm-license-img]: https://img.shields.io/npm/l/numbeo-api.svg
 
